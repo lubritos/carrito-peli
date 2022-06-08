@@ -1,2 +1,2 @@
-# carrito-peli
+# test-peli
 Created with CodeSandbox

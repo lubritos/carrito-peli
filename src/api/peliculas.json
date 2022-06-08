@@ -1,0 +1,74 @@
+[
+  {
+    "nombre": "Ant-Man and the Wasp",
+    "portada": "https://blogdesuperheroes.es/wp-content/plugins/BdSGallery/BdSGaleria/68059.jpg",
+    "anio": "2018",
+    "genero": "Action",
+    "precio": "$1000",
+    "video": "UUkn-enk2RU",
+    "stock": 10
+  },
+  {
+    "nombre": "Avengers: Infinity War",
+    "portada": "https://m.media-amazon.com/images/I/81GfZasnt9L._SL1371_.jpg",
+    "anio": "2018",
+    "genero": "Action, Fantasy",
+    "precio": "$1000",
+    "video": "6ZfuNTqbHE8",
+    "stock": 10
+  },
+  {
+    "nombre": "The Flash",
+    "portada": "https://pics.filmaffinity.com/The_Flash_Serie_de_TV-242900432-large.jpg",
+    "anio": "2014",
+    "genero": "Adventure, Fantasy",
+    "precio": "$1000",
+    "video": "Yj0l7iGKh8g",
+    "stock": 10
+  },
+  {
+    "nombre": "Game of thrones",
+    "portada": "https://m.media-amazon.com/images/I/91DjGXn7jXL._SY550_.jpg",
+    "anio": "2018",
+    "genero": "Adventure, Action",
+    "precio": "$1000",
+    "video": "KPLWWIOCOOQ",
+    "stock": 10
+  },
+  {
+    "nombre": "Titans",
+    "portada": "https://pics.filmaffinity.com/Titanes_hicieron_historia-124859456-large.jpg",
+    "anio": "2018",
+    "genero": "Drama, Adventure",
+    "precio": "$1000",
+    "video": "_JX89CWH5MU",
+    "stock": 10
+  },
+  {
+    "nombre": "Aquaman",
+    "portada": "https://pics.filmaffinity.com/Aquaman-355320736-large.jpg",
+    "anio": "2018",
+    "genero": "Action, Fantasy",
+    "precio": "$1000",
+    "video": "WDkg3h8PCVU",
+    "stock": 10
+  },
+  {
+    "nombre": "Hold the Dark",
+    "portada": "https://mx.web.img3.acsta.net/c_310_420/pictures/18/08/20/09/45/2002846.jpg",
+    "anio": "2018",
+    "genero": "Adventure, Mistery",
+    "precio": "$1000",
+    "video": "OFAwDO6b5KI",
+    "stock": 10
+  },
+  {
+    "nombre": "The predator",
+    "portada": "https://images.justwatch.com/poster/103054225/s332/depredador-2.%7Bformat%7D",
+    "anio": "2018",
+    "genero": "Adventure, Horror",
+    "precio": "$1000",
+    "video": "WaG1KZqrLvM",
+    "stock": 10
+  }
+]
